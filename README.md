@@ -1,2 +1,2 @@
-# GoldenRatio
-This code fill find out the golden ratio of your face.Hope its 1.6:1 xD
+# GoldenRatioCalculator
+A face detection software that calculates the ratio of a face using the webcam, and then compares it to the golden ratio. Implemented using python and the OpenCV library
